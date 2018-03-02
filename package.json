@@ -1,0 +1,15 @@
+{
+  "name": "initialproject",
+  "version": "1.0.0",
+  "description": "first attempt at using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -c -b tests/**/*.test.js"
+  },
+  "author": "Laura Mills",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "sinon": "^4.4.2"
+  }
+}
